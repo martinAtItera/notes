@@ -1,0 +1,32 @@
+CODING STANDARDS AND BEST PRACTICES
+
+General Principles:
+- Write clean, readable code
+- Follow the DRY principle (Don't Repeat Yourself)
+- Use meaningful variable and function names
+- Comment complex logic
+- Keep functions small and focused
+
+Code Style:
+- Use consistent indentation (2 or 4 spaces)
+- Follow language-specific style guides
+- Use linters and formatters
+- Keep line length reasonable (80-120 characters)
+
+Version Control:
+- Commit early and often
+- Write descriptive commit messages
+- Review your changes before committing
+- Use feature branches
+
+Testing:
+- Write unit tests for new functionality
+- Aim for high test coverage
+- Test edge cases and error conditions
+- Run tests before committing
+
+Documentation:
+- Document public APIs
+- Keep README files up to date
+- Include usage examples
+- Document non-obvious decisions
